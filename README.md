@@ -1,6 +1,7 @@
 # LostKit 2
 
 LostKit is a desktop application built with Electron and JavaScript, designed for 2004Scape (Lost City) players. It provides useful tools such as hiscores lookup and world switcher to enhance your gaming experience.
+https://lostcity.rs/t/say-hello-to-lostkit-2-refreshed-rebuilt-and-tuned-for-lost-city/13516
 
 ## Credits
 Huge thanks to everyone who helped make LostKit 2 possible - **Collin**, **Halogod35**, **Branon**, and anyone I may have accidentally left out. Your time, ideas, and patience really shaped this project, and It couldn’t have been possible it without you.
