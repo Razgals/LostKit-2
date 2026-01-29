@@ -3,7 +3,7 @@
 LostKit is a desktop application built with Electron and JavaScript, designed for 2004Scape (Lost City) players. It provides useful tools such as hiscores lookup and world switcher to enhance your gaming experience.
 
 ## Credits
-Huge thanks to everyone who helped make LostKit V2 possible - **Collin**, **Halogod35**, **Branon**, and anyone I may have accidentally left out. Your time, ideas, and patience really shaped this project, and It couldn’t have been possible it without you.
+Huge thanks to everyone who helped make LostKit 2 possible - **Collin**, **Halogod35**, **Branon**, and anyone I may have accidentally left out. Your time, ideas, and patience really shaped this project, and It couldn’t have been possible it without you.
 
 ## Dependencies
 1. Node JS: [nodejs.org](https://nodejs.org/)
