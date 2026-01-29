@@ -1,6 +1,11 @@
 const { app, BrowserWindow, WebContentsView, ipcMain, dialog, shell } = require('electron');
 const path = require('path');
 
+// Handle Squirrel installer events on Windows
+if (require('electron-squirrel-startup')) {
+  app.quit();
+}
+
 let mainWindow;
 let afkAuto = false;
 let primaryViews = [];
@@ -40,7 +45,8 @@ app.whenReady().then(() => {
     webPreferences: {
       nodeIntegration: true,
       contextIsolation: false
-    }
+    },
+    title: 'LostKit 2 - by LostHQ Team'
   });
 
   mainWindow.loadFile(path.join(__dirname, 'index.html'));
