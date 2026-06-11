@@ -1,3 +1,5 @@
+All development moved to: https://github.com/LostHQ/LostKit-Electron
+
 # LostKit 2
 
 LostKit is a desktop application built with Electron and JavaScript, designed for 2004Scape (Lost City) players. It provides useful tools such as hiscores lookup and world switcher to enhance your gaming experience.
